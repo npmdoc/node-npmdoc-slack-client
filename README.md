@@ -1,6 +1,6 @@
 # npmdoc-slack-client
 
-#### api documentation for  [slack-client (v2.0.6)](https://github.com/slackhq/node-slack-client#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-slack-client.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slack-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slack-client.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slack-client)
+#### basic api documentation for  [slack-client (v2.0.6)](https://github.com/slackhq/node-slack-client#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-slack-client.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-slack-client) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-slack-client.svg)](https://travis-ci.org/npmdoc/node-npmdoc-slack-client)
 
 #### A library for creating a Slack client
 
@@ -92,7 +92,8 @@
         "lint": "eslint . --ignore-path .gitignore",
         "test": "mocha --recursive --reporter spec test"
     },
-    "version": "2.0.6"
+    "version": "2.0.6",
+    "bin": {}
 }
 ```
 
